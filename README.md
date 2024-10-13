@@ -1,3 +1,4 @@
+![auTor](https://github.com/user-attachments/assets/f90b4d58-498b-4530-b823-017e41dde244)
 # Autor
 
 Installation: 
