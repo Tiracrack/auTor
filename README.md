@@ -3,7 +3,7 @@
 
 
 
-# Autor
+# auTor
 _This script is designed to protect yourself from the dangers of the Inter
 net. It provides protection by hiding through the network._
 
@@ -16,7 +16,9 @@ $ apt install python3 -y
 
 $ apt install git -y
 
-$ git clone https://github.com/Tiracrack/Autor.git
+$ git clone https://github.com/Tiracrack/auTor.git
+
+$ cd auTor
 
 **To get started**
 
