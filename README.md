@@ -12,7 +12,10 @@ _This script is one of the latest scripts and it is also the first version and i
 
 **_Installation :_**
 
-$ apt install python3 && apt install git -y
+$ apt install python3 -y
+
+$ apt install git -y
+
 $ git clone https://github.com/Tiracrack/Autor.git
 
 **To get started**
